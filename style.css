@@ -1,0 +1,63 @@
+body {
+    background-color: #E5E5E5;
+    color: ##0A3871;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+}
+
+.logo {
+    margin-top: 40px;
+    margin-left: 84px;
+}
+
+.ingreso {
+    height: 440px;
+    width: 440px;
+    top: 622px;
+    left: 100px;
+    border-radius: 0px;
+
+}
+
+#resultado {
+    
+position: absolute;
+width: 400px;
+height: 944px;
+left: 1000px;
+top: 40px;
+
+/* White */
+
+background: #FFFFFF;
+/* shadow */
+
+box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+border-radius: 32px;
+
+}
+
+.muñeco {
+    height: 304px;
+    width: 336px;
+    left: 1032px;
+    top: 283px;
+    border-radius: 0px;
+    padding: 243px 32px 397px 32px;
+    display: inline-block;
+}
+
+.mensaje-resultado{
+    font-size: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    width: 400px;
+    top: 40px;
+    border-radius: 32px;
+}
+
